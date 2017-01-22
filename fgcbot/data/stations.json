@@ -1,0 +1,556 @@
+{
+    "stations": {
+        "AB": [
+            [
+                "Abrera"
+            ], 
+            2
+        ], 
+        "AE": [
+            [
+                "Aeri de Montserrat"
+            ], 
+            2
+        ], 
+        "AL": [
+            [
+                "Almeda"
+            ], 
+            2
+        ], 
+        "BE": [
+            [
+                "La Beguda"
+            ], 
+            2
+        ], 
+        "BN": [
+            [
+                "La Bonanova", 
+                "bonanova", 
+                "bon"
+            ], 
+            1
+        ], 
+        "BO": [
+            [
+                "Sant Boi"
+            ], 
+            2
+        ], 
+        "BT": [
+            [
+                "Bellaterra", 
+                "bellaterra", 
+                "bella", 
+                "bel"
+            ], 
+            1
+        ], 
+        "CA": [
+            [
+                "Capellades"
+            ], 
+            2
+        ], 
+        "CB": [
+            [
+                "Castellbell i el Vilar"
+            ], 
+            2
+        ], 
+        "CG": [
+            [
+                "Colònia Güell"
+            ], 
+            2
+        ], 
+        "CL": [
+            [
+                "Santa Coloma de Cervelló"
+            ], 
+            2
+        ], 
+        "CO": [
+            [
+                "Cornellà Riera"
+            ], 
+            2
+        ], 
+        "CP": [
+            [
+                "Can Parellada"
+            ], 
+            2
+        ], 
+        "CR": [
+            [
+                "Can Ros"
+            ], 
+            2
+        ], 
+        "EN": [
+            [
+                "Estacio del Nord, Terrassa", 
+                "estacionord", 
+                "nord", 
+                "nor"
+            ], 
+            1
+        ], 
+        "EP": [
+            [
+                "El Putxet", 
+                "putxet", 
+                "put"
+            ], 
+            1
+        ], 
+        "EU": [
+            [
+                "Europa | Fira", 
+                "europa fira"
+            ], 
+            2
+        ], 
+        "FN": [
+            [
+                "Les Fonts", 
+                "fonts", 
+                "fon"
+            ], 
+            1
+        ], 
+        "GO": [
+            [
+                "Gornal"
+            ], 
+            2
+        ], 
+        "GR": [
+            [
+                "Gràcia, BCN", 
+                "gracia", 
+                "gra"
+            ], 
+            1
+        ], 
+        "HG": [
+            [
+                "Hospital General", 
+                "hospital", 
+                "general", 
+                "hos"
+            ], 
+            1
+        ], 
+        "IC": [
+            [
+                "Ildefons Cerdà"
+            ], 
+            2
+        ], 
+        "IG": [
+            [
+                "Igualada"
+            ], 
+            2
+        ], 
+        "LF": [
+            [
+                "La Floresta", 
+                "floresta", 
+                "flo"
+            ], 
+            1
+        ], 
+        "LH": [
+            [
+                "L'Hospitalet Av. Carrilet Cerdà", 
+                "avinguda"
+            ], 
+            2
+        ], 
+        "LP": [
+            [
+                "Les Planes", 
+                "planes", 
+                "pla"
+            ], 
+            1
+        ], 
+        "MA": [
+            [
+                "Manresa Alta"
+            ], 
+            2
+        ], 
+        "MB": [
+            [
+                "Manresa Baixador"
+            ], 
+            2
+        ], 
+        "MC": [
+            [
+                "Martorell Central"
+            ], 
+            2
+        ], 
+        "ME": [
+            [
+                "Martorelll Enllaç"
+            ], 
+            2
+        ], 
+        "MG": [
+            [
+                "Magòria La Campana"
+            ], 
+            2
+        ], 
+        "ML": [
+            [
+                "Molí Nou Ciutat Cooperativa"
+            ], 
+            2
+        ], 
+        "MN": [
+            [
+                "Muntaner", 
+                "muntaner", 
+                "mun"
+            ], 
+            1
+        ], 
+        "MO": [
+            [
+                "Monistrol de Montserrat"
+            ], 
+            2
+        ], 
+        "MQ": [
+            [
+                "Masquefa"
+            ], 
+            2
+        ], 
+        "MS": [
+            [
+                "Mira-sol", 
+                "mira", 
+                "sol", 
+                "mirasol", 
+                "mir"
+            ], 
+            1
+        ], 
+        "MV": [
+            [
+                "Martorell Vila | Castellbisbal", 
+                "Martorell Vila Castellbisbal"
+            ], 
+            2
+        ], 
+        "NA": [
+            [
+                "Nacions Unides, Terrassa", 
+                "nacions", 
+                "unides", 
+                "nac"
+            ], 
+            1
+        ], 
+        "OL": [
+            [
+                "Olesa de Montserrat"
+            ], 
+            2
+        ], 
+        "PA": [
+            [
+                "pallejà"
+            ], 
+            2
+        ], 
+        "PC": [
+            [
+                "Plaça Catalunya, BCN", 
+                "plaça", 
+                "bcn", 
+                "placa", 
+                "catalunya", 
+                "cat"
+            ], 
+            1
+        ], 
+        "PD": [
+            [
+                "Pàdua", 
+                "pàdua", 
+                "padua", 
+                "pad"
+            ], 
+            1
+        ], 
+        "PE": [
+            [
+                "Plaça Espanya, BCN", 
+                "plaza españa", 
+                "placa espanya"
+            ], 
+            2
+        ], 
+        "PF": [
+            [
+                "Peu del Funicular", 
+                "peu", 
+                "funicular", 
+                "fun"
+            ], 
+            1
+        ], 
+        "PI": [
+            [
+                "Piera"
+            ], 
+            2
+        ], 
+        "PL": [
+            [
+                "El Palau"
+            ], 
+            2
+        ], 
+        "PM": [
+            [
+                "Plaça Molina", 
+                "molina", 
+                "mol"
+            ], 
+            1
+        ], 
+        "PO": [
+            [
+                "La Pobla de Claramunt"
+            ], 
+            2
+        ], 
+        "PR": [
+            [
+                "Provença, BCN", 
+                "provença", 
+                "provenca", 
+                "pro"
+            ], 
+            1
+        ], 
+        "QC": [
+            [
+                "Quatre Camins"
+            ], 
+            2
+        ], 
+        "RA": [
+            [
+                "Sabadell Rambla", 
+                "sabadell", 
+                "ram", 
+                "sab"
+            ], 
+            1
+        ], 
+        "RB": [
+            [
+                "Rubí", 
+                "rubí", 
+                "rubi", 
+                "rub"
+            ], 
+            1
+        ], 
+        "RE": [
+            [
+                "Reina Elisenda", 
+                "reinaelisenda", 
+                "reina", 
+                "elisenda", 
+                "rei"
+            ], 
+            1
+        ], 
+        "SA": [
+            [
+                "Sant Andreu de la Barca"
+            ], 
+            2
+        ], 
+        "SB": [
+            [
+                "Sabadell Estació", 
+                "sabadellestació", 
+                "sabadellestacio", 
+                "estacio", 
+                "est"
+            ], 
+            1
+        ], 
+        "SC": [
+            [
+                "Sant Cugat", 
+                "santcugat", 
+                "cugat", 
+                "cug"
+            ], 
+            1
+        ], 
+        "SE": [
+            [
+                "Sant Esteve Sesrovires"
+            ], 
+            2
+        ], 
+        "SG": [
+            [
+                "Sant Gervasi", 
+                "santgervasi", 
+                "gervasi", 
+                "ger"
+            ], 
+            1
+        ], 
+        "SJ": [
+            [
+                "Sant Joan", 
+                "santjoan", 
+                "joan", 
+                "joa"
+            ], 
+            1
+        ], 
+        "SP": [
+            [
+                "Sant Josep"
+            ], 
+            2
+        ], 
+        "SQ": [
+            [
+                "Sant Quirze", 
+                "santquirze", 
+                "quirze", 
+                "qui"
+            ], 
+            1
+        ], 
+        "SR": [
+            [
+                "Sarrià", 
+                "sarria", 
+                "sarrià", 
+                "sar"
+            ], 
+            1
+        ], 
+        "SV": [
+            [
+                "Sant Vicenç | Castellgalí", 
+                "Sant Vicenç Castellgalí"
+            ], 
+            2
+        ], 
+        "TB": [
+            [
+                "Av. Tibidabo", 
+                "avtibidabo", 
+                "tibidabo", 
+                "tib"
+            ], 
+            1
+        ], 
+        "TR": [
+            [
+                "Terrassa Rambla", 
+                "terrassa", 
+                "ter"
+            ], 
+            1
+        ], 
+        "TT": [
+            [
+                "Les Tres Torres", 
+                "tres", 
+                "torres", 
+                "tre"
+            ], 
+            1
+        ], 
+        "UN": [
+            [
+                "UAB Bellatera", 
+                "universistat", 
+                "uni", 
+                "uab"
+            ], 
+            1
+        ], 
+        "VA": [
+            [
+                "Vallbona d'Anoia"
+            ], 
+            2
+        ], 
+        "VD": [
+            [
+                "Valldoreix", 
+                "valldoreix", 
+                "vall"
+            ], 
+            1
+        ], 
+        "VH": [
+            [
+                "Sant Vicenç dels Horts"
+            ], 
+            2
+        ], 
+        "VI": [
+            [
+                "Manresa Viladordis"
+            ], 
+            2
+        ], 
+        "VL": [
+            [
+                "Baixador de Vallvidrera", 
+                "baixador", 
+                "vallvidrera", 
+                "bai"
+            ], 
+            1
+        ], 
+        "VN": [
+            [
+                "Vilanova del Camí"
+            ], 
+            2
+        ], 
+        "VO": [
+            [
+                "Volpelleres", 
+                "volpelleres", 
+                "vol"
+            ], 
+            1
+        ], 
+        "VP": [
+            [
+                "Vallparadís Universitat, Terrassa", 
+                "vallparadís", 
+                "vallparadis", 
+                "val"
+            ], 
+            1
+        ]
+    }
+}
