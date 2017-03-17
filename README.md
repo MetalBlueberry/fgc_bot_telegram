@@ -14,7 +14,7 @@ You can fork it to adapt to your local trains service, you only need to replace 
 
 ### How do I get set up? ###
 
-It's writted in Python 2.7 and uses [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI).
+It's write in Python 2.7 and uses [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI).
 All the requirements are in the **requirements.txt**
 
 It was coded in a Windows enviroment but deployed in a Linux server, so you should not have problems with folders missing.
